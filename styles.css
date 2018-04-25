@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+/* header animation */
+#mast #animation {
+	background-color: #d90000;
+	height: 25px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: absolute;
+	top: 28px;
+	width: 100%;
+}
+
+#mast #animation div {
+	background-color: #ff00cc;
+	height: 25px;
+	opacity: 0;
+	position: absolute;
+}
+/* end header animation */
